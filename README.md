@@ -2,16 +2,15 @@
 
 16 chart types in one region type, from line, bar and pie to sankey, network and candlestick, drawn with Apache ECharts 6.1.0.
 
-![Apache ECharts](screenshots/preview.png)
+[![Live demo](https://img.shields.io/badge/Live_demo-0f7b72?style=for-the-badge)](https://oracleapex.com/ords/r/aamirkhanz/plugins/echarts) &nbsp; Sign in as `demo` with the password `Demo`.
 
-**[Live demo](https://oracleapex.com/ords/r/aamirkhanz/plugins/echarts)**: sign in as `demo` with the password `Demo`.
+![Apache ECharts](screenshots/preview.png)
 
 | | |
 |---|---|
 | **Type** | Region plug-in |
 | **Internal name** | `COM.TECHREVX.ECHARTS` |
 | **Version** | 1.2 |
-| **Live demo** | [oracleapex.com/ords/r/aamirkhanz/plugins/echarts](https://oracleapex.com/ords/r/aamirkhanz/plugins/echarts) (user `demo`, password `Demo`) |
 | **Requires** | Oracle APEX 26.2 or later |
 | **License** | MIT |
 
