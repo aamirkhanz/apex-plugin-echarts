@@ -4,11 +4,14 @@
 
 ![Apache ECharts](screenshots/preview.png)
 
+**[Live demo](https://oracleapex.com/ords/r/aamirkhanz/plugins/echarts)**: sign in as `demo` with the password `Demo`.
+
 | | |
 |---|---|
 | **Type** | Region plug-in |
 | **Internal name** | `COM.TECHREVX.ECHARTS` |
 | **Version** | 1.2 |
+| **Live demo** | [oracleapex.com/ords/r/aamirkhanz/plugins/echarts](https://oracleapex.com/ords/r/aamirkhanz/plugins/echarts) (user `demo`, password `Demo`) |
 | **Requires** | Oracle APEX 26.2 or later |
 | **License** | MIT |
 
