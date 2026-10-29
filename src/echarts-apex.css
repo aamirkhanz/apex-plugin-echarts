@@ -1,0 +1,12 @@
+/* Apache ECharts region plug-in (TechRevX): the chart fills the region width; its height comes from the Height attribute */
+.tx-ECharts {
+  position: relative;
+  width: 100%;
+  min-height: 120px;
+}
+
+/* the toolbox's Data View is HTML; keep it readable inside dark regions too */
+.tx-ECharts textarea {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12px;
+}

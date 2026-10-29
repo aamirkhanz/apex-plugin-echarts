@@ -1,0 +1,51 @@
+{
+  "name": "Apache ECharts",
+  "version": "1.2",
+  "description": "<p>16 chart types in one region type, from line, bar and pie to sankey, network and candlestick, drawn with Apache ECharts 6.1.0.</p><p>Chart types: Line, Bar, Pie, Scatter / Bubble, Heatmap, Tree, Treemap, Calendar, Gauge, Funnel, Radar, Sankey, Sunburst, Network Graph, Candlestick and Box Plot. Source: any region source (SQL query, table, REST source). Map columns in the Data group: Label, Value, Series, Y Category / Target, ID, Parent ID, Size, Color, and Open, High and Low for candlesticks. Page Designer shows only the columns and options the chosen Chart Type uses. Options: title, theme (automatic light/dark, also following a light/dark switch on the page without a reload, or custom), renderer, palette, legend, tooltip, data labels, animation, mouse and slider zoom, accessibility patterns, toolbox (save image, data view, box zoom, switch type, restore), value format mask and suffix, axis titles, limits, log and time axes, and per-type options for every chart type.</p><p>Requires Oracle APEX 26.2 or later. Documentation, updates and more plug-ins: https://www.techrevx.com</p>",
+  "keywords": [
+    "oracle",
+    "apex",
+    "plugin",
+    "techrevx",
+    "echarts",
+    "charts",
+    "line",
+    "bar",
+    "pie",
+    "heatmap",
+    "treemap",
+    "sankey",
+    "calendar",
+    "gauge"
+  ],
+  "homepage": "https://github.com/aamirkhanz/apex-plugin-echarts",
+  "bugs": {
+    "url": "https://github.com/aamirkhanz/apex-plugin-echarts/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "TechRevX",
+    "url": "https://www.techrevx.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aamirkhanz/apex-plugin-echarts.git"
+  },
+  "oracle": {
+    "versions": [
+      "19c",
+      "21c",
+      "23ai"
+    ],
+    "apex": {
+      "versions": [
+        "26.2"
+      ],
+      "plugin": {
+        "internalName": "COM.TECHREVX.ECHARTS",
+        "type": "region",
+        "previewImage": "https://raw.githubusercontent.com/aamirkhanz/apex-plugin-echarts/main/screenshots/preview.png"
+      }
+    }
+  }
+}
